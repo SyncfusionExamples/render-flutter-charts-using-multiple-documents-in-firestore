@@ -2,7 +2,7 @@
 
 This repository contains a sample to load data from Firestore and bind to [Syncfusion Flutter Chart](https://help.syncfusion.com/flutter/cartesian-charts/getting-started) widget.
 
-Please refer the KB through this [link]https://www.syncfusion.com/kb/13973/how-to-visualizing-data-from-multiple-documents-in-firestore-using-flutter-sfcartesianchart).
+Please refer the KB through this [link](https://www.syncfusion.com/kb/13973/how-to-visualizing-data-from-multiple-documents-in-firestore-using-flutter-sfcartesianchart).
 
 ## Syncfusion controls:
 
