@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "229653917074",
+    "firebase_url": "https://complex-data-struct-default-rtdb.firebaseio.com",
+    "project_id": "complex-data-struct",
+    "storage_bucket": "complex-data-struct.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:229653917074:android:7bffba1387827b8937e54b",
+        "android_client_info": {
+          "package_name": "com.example.complex_data_struct"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "229653917074-urucb118ju6qfafm7eob27uj67fsua7q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbxzyRV_xYZuRE5N9hQJU8aQ47IT4Wfhg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "229653917074-urucb118ju6qfafm7eob27uj67fsua7q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
