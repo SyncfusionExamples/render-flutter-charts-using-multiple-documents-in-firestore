@@ -81,9 +81,9 @@ class _MyHomePageState extends State<MyHomePage> {
         ));
   }
 
-  List<ChartSeries<SalesData, DateTime>> buildLineSeries(
+  List<LineSeries<SalesData, DateTime>> buildLineSeries(
       List<ChartData> chartData) {
-    List<ChartSeries<SalesData, DateTime>> series = [];
+    List<LineSeries<SalesData, DateTime>> series = [];
     List<Color> seriesColor = [
       const Color(0XFFd4862f),
       const Color(0XFFc3c2c2),
